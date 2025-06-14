@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Fullstack Web Developer** with **5+ years of professional experience**, building scalable, high‑quality applications using best programming practices. I'm passionate about clean code, test-driven development, and cloud architectures.
+I'm a **Fullstack Web Developer** with **4+ years of professional experience**, building scalable, high‑quality applications using best programming practices. I'm passionate about clean code, test-driven development, and cloud architectures.
 
 🔭 **Top Stack:**  
 - **React** — front-end architecture & SPAs  
