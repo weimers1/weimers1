@@ -24,7 +24,7 @@ A custom-built showcase of my work and skills. Full React frontend with a Node/E
 ### 2. 🔧 Weld WISE  
 A Laravel‑powered app for a welding company—hosted on GCP with a responsive UI, user account access, and PayPal purchase integration.
 
-### 3. 🤝 DevConnect (React App WIP)  
+### 3. 🤝 Devs Connect  
 A platform for developers to find like‑minded peers, collaborate, and grow communities. Built with React, real‑time chat, and user auth.
 
 ---
@@ -57,4 +57,4 @@ Check out my full experience and project breakdowns at:
 
 ## 📣 Want to chat?
 
-Reach out via LinkedIn, my website or email.
+Reach out via LinkedIn, my website, or email.
