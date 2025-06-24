@@ -11,7 +11,7 @@ I'm a **Fullstack Web Developer** with **4+ years of professional experience**, 
 🔭 **Top Stack:**  
 - **React** — front-end architecture & SPAs  
 - **Node.js** — RESTful APIs and backend services  
-- **Cloud Development** — GCP, serverless  
+- **Cloud Development** — GCP, AWS, serverless  
 - **DevOps** — CI/CD pipelines, Docker  
 
 ---
