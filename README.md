@@ -19,13 +19,13 @@ I'm a **Fullstack Web Developer** with **4+ years of professional experience**, 
 ## 🌟 Featured Projects
 
 ### 1. 🧩 Portfolio Website  
-A custom-built showcase of my work and skills. Full React frontend with a Node/Express backend—perfect demonstration of design & performance.
+A custom-built showcase of my work and skills hosted via GCP. Full React frontend with a Node/Express backend—perfect demonstration of design & performance.
 
 ### 2. 🔧 Weld WISE  
 A Laravel‑powered app for a welding company—hosted on GCP with a responsive UI, user account access, and PayPal purchase integration.
 
 ### 3. 🤝 Devs Connect  
-A platform for developers to find like‑minded peers, collaborate, and grow communities. Built with React, real‑time chat, and user auth.
+A platform for developers to find like‑minded peers, collaborate, and grow communities. Built with React, real‑time chat, and user auth, and hosted via AWS.
 
 ---
 
